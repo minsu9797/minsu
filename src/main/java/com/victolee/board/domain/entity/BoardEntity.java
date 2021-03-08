@@ -1,4 +1,4 @@
-package com.example.prct.domain.entity;
+package com.victolee.board.domain.entity;
 
 import lombok.AccessLevel;
 import lombok.Builder;

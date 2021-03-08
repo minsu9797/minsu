@@ -1,6 +1,6 @@
-package com.example.prct.domain.repository;
+package com.victolee.board.domain.repository;
 
-import com.example.prct.domain.entity.BoardEntity;
+import com.victolee.board.domain.entity.BoardEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

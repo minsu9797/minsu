@@ -1,6 +1,6 @@
-package com.example.prct.dto;
+package com.victolee.board.dto;
 
-import com.example.prct.domain.entity.BoardEntity;
+import com.victolee.board.domain.entity.BoardEntity;
 import lombok.*;
 
 import java.time.LocalDateTime;
